@@ -1,3 +1,8 @@
 [devshell]
 name = "sno2wman-zenn-articles"
-packages = ["dprint"]
+packages = ["dprint", "nodePackages.pnpm"]
+
+[[commands]]
+name = "format"
+help = "format files"
+command = "treefmt"

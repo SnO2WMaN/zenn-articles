@@ -1,0 +1,10 @@
+{
+  "name": "@sno2wman/zenn-articles",
+  "private": true,
+  "scripts": {
+    "preview": "zenn preview"
+  },
+  "devDependencies": {
+    "zenn-cli": "^0.1.110"
+  }
+}
