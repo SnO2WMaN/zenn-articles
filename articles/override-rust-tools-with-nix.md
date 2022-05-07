@@ -3,7 +3,7 @@ title: "CargoでビルドするRust製ツールをNixでoverrideする"
 emoji: "❄️"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: [ "Nix" ]
-published: false
+published: true
 ---
 
 ## はじめに
