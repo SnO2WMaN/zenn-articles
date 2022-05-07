@@ -1,0 +1,3 @@
+[devshell]
+name = "sno2wman-zenn-articles"
+packages = ["dprint"]
