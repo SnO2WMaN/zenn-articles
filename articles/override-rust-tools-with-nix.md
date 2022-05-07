@@ -161,6 +161,9 @@ drvファイルが`taplo-cli-0.6.2.drv`のようになるので，なぜ…と�
 
 Nix　むずすぎる
 
+ちなみにこの記事は，[Dhallでdocker-compose.ymlを書く試み](https://github.com/SnO2WMaN/dhall-docker-compose-practice/blob/main/flake.nix)で環境構築をしていた際に発生した問題を記事にしたものである．
+この試みについては，そのうち書きます．
+
 ## 参考文献
 
 - https://discourse.nixos.org/t/is-it-possible-to-override-cargosha256-in-buildrustpackage/4393
