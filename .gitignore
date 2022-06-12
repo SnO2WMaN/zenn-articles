@@ -3,6 +3,3 @@
 node_modules/
 
 *.log
-
-# VSCode
-.vscode/settings.json

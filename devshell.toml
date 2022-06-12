@@ -1,8 +1,13 @@
 [devshell]
 name = "sno2wman-zenn-articles"
-packages = ["dprint", "nodePackages.pnpm"]
+packages = [
+  "alejandra",
+  "dprint",
+  "nodejs",
+  "nodePackages.pnpm",
+  "treefmt",
+]
 
 [[commands]]
-name = "format"
-help = "format files"
-command = "treefmt"
+package = "treefmt"
+category = "formatter"
