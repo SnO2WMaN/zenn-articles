@@ -5,6 +5,6 @@
     "preview": "zenn preview"
   },
   "devDependencies": {
-    "zenn-cli": "^0.1.110"
+    "zenn-cli": "^0.1.111"
   }
 }
